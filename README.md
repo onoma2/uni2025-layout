@@ -5,6 +5,13 @@ This https://github.com/tonsky/Universal-Layout/
 
 With some ideas from this https://github.com/braindefender/universal-layout that works on my Macbook
 
+**Quotes are always** to the left of 1. With both of my Macbooks, because cba to find out their exact models, so its easier to adapt at layout level.
+
+2021 Macbook (dustier)
+![](https://github.com/onoma2/uni2025-layout/blob/main/macbook2021.jpg?raw=true) 
+2024 Macbook (dusty)
+![](https://github.com/onoma2/uni2025-layout/blob/main/macbook2024.jpg?raw=true) 
+
 To the left of ONE
 
 " Double quotes
